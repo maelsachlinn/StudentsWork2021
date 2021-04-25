@@ -1,0 +1,33 @@
+@charset "utf-8";
+body{
+        background-color: #494747; 
+        color: #E4E4E4; 
+        
+    }
+    #wrapper{}
+    
+    
+    a {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-style: normal;
+	font-size: 12px;
+	color: #E4E4E4;
+}
+a:visited {
+	color: #E4E4E4;
+}
+a:hover {
+	color: #680A0C;
+}
+a:active {
+	color: #E4E4E4;
+}
+h1,h2,h3,h4,h5,h6 {
+	font-style: normal;
+}
+h1 {
+	font-size: 36px;
+}
+h2 {
+	font-size: 24px;
+}
