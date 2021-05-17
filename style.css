@@ -15,7 +15,10 @@ body{
         
     }
     #wrapper{}
+ul li{
+    list-style-type: none;
     
+}
     
     a {
 	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
